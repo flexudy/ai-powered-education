@@ -4,6 +4,8 @@
 generation in the field of education. Our mission is democratise education across the globe. Try our
 hosted [web application here](https://app.flexudy.com "Web App")
 
+[<img src="flexudy-avatar.png" width="500" align="left"/>](Flexudy-Avatar)
+
 ## OMQD (Open Multi-lingual Question Answering Dataset)
 
 1. OMQD is a new challenging question answering dataset.
