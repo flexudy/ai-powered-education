@@ -28,7 +28,7 @@ bullosa simplex with late-onset muscular dystrophy."""
 
 answered = False  # This question is not answerable
 
-answer = ""
+answer = "" # If answered is True, this is not empty.
 ```
 
 Link to dataset: [OMQD](https://huggingface.co/datasets/flexudy/OMQD "OMQD")
