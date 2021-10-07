@@ -4,8 +4,6 @@
 generation in the field of education. Our mission is democratise education across the globe. Try our
 hosted [web application here](https://app.flexudy.com "Web App")
 
-
-
 [<img src="flexudy-avatar.png" width="50" align="left"/>](Flexudy-Avatar)
 
 
