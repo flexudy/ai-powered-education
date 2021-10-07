@@ -32,7 +32,7 @@ Link to dataset: [OMQD](https://huggingface.co/datasets/flexudy/OMQD "OMQD")
 
 ### Test Set
 We have a secret test set of over 1000 questions. We will maintain a [Leaderboard here](https://github.com/flexudy/ai-powered-education "OMQD Leaderboard").
-So, zip and send us your model and execution script for evaluation.
+So, zip, upload and send us the location your model and execution script for evaluation.
 
 e.g `your-name-or-team-name.zip`
 
